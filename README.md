@@ -1,2 +1,2 @@
 # toying-with-opencv
-lab05 in CS461 course from mmcs.sfedu.ru
+task from CS461 course from mmcs.sfedu.ru
